@@ -1,0 +1,50 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("DrNigga Dahood Script", "Default")
+
+--shithead
+
+local nigger = DrRayLibrary.newTab("nigger", "ImageIdHere")
+
+nigger.newButton("Scarlewd", "gay", function()
+    loadstring(game:HttpGet("https://pastecode.dev/raw/0VplHVK0pQ/Script%20da%20hood%20scarlet"))()
+end)
+
+nigger.newButton("smurfcat faded", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded-Grid/main/YesEpic", true))()
+end)
+
+nigger.newButton("assure", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+end)
+
+nigger.newButton("vorgay", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ImagineProUser/vortexdahood/main/vortex", true))()
+end)
+
+nigger.newButton("osipussy", "Prints Hello!", function()
+    https://raw.githubusercontent.com/Angxlzzcc/README.nd/main/README.md
+end)
+
+nigger.newButton("polarnigga", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/pixelheadx/Polakya/main/Bestscript.md"))()
+end)
+
+nigger.newButton("lgbtq+ lock", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXORA/Roblox-Scripts/main/Rainbow%20Sunshine%20Aimlock.lua", true))()
+end)
+
+nigger.newButton("dxnxx9.com", "Prints Hello!", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/DX9user-renpy/DX9WARE/main/Private/UI/Lib/script.lua'))()
+end)
+
+nigger.newButton("fufuware", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/itzbeorz/b8f1e1e47f5a11194669217fb20cc4e7/raw/eaa9ff2eed03b3390bc9ab1646530950da697d38/gistfile1.txt"))()
+end)
+
+nigger.newButton("impegayv3", "Prints Hello!", function()
+    https://raw.githubusercontent.com/Angxlzzcc/Nigga/main/Imgayv3
+end) 
+
+nigger.newButton("nemegay", "Prints Hello!", function()
+    https://raw.githubusercontent.com/Angxlzzcc/Cock/main/Shitten
+end)
